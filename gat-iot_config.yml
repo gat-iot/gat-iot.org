@@ -1,0 +1,10 @@
+# 博客基本信息
+title: 我的技术博客
+author:
+  name: 加特物联
+  email: farce.chen@gat-iot.com.com
+# 主题配置
+theme: minimal-mistakes-jekyll
+# 其他配置
+timezone: Asia/Shanghai
+markdown: kramdown
